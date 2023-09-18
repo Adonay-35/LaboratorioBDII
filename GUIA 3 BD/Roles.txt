@@ -1,0 +1,75 @@
+
+Rol: Sysadmin
+Opciones: 
+* Gestionar Base de Datos
+	- Crear (Create)
+	- Insertar (Insert)
+	- Consultar (Select)
+	- Ejecucion (Execute)
+	- Actualizar (Update)
+	- Eliminar (Drop)(Delete)
+	- Crear base de datos (Create Database)
+	- Copia de Seguridad de la BD (Backup Databasa)
+	- Restaurar Base de Datos (Restore Database)
+	- Concesion (Grant)
+	- Revocacion (Revoke)
+
+Rol: Gerente
+Opciones:
+* Gestionar Base de Datos
+	- Consultar (Select)
+	- Actualizar (Update)
+	- Insertar (Insert)
+	- Concesion (Grant)
+	- Revocar (Revoke)
+	- Eliminar (Delete)
+
+
+Rol: Vendedor
+Opciones:
+*Gestionar tabla inventarios
+	- Consultar (Select)
+* Gestionar tabla productos:
+	- Consultar (Select)
+*Gestionar tabla Facturas
+	- Insertar (Insert)
+	- Consultar (Select)
+	- Actualizar (Update)
+*Gestionar tabla Ventas
+	- Insertar (Insert)
+	- Consultar (Select)
+	- Actualizar (Update)
+*Gestionar tabla DetallesVentas
+	- Insertar (Insert)
+	- Consultar (Select)
+	- Actualizar (Update)
+Gestionar tablas Clientes y Direcciones
+	- Insertar (Insert)
+	- Consultar (Select)
+	- Actualizar (Update)
+Gestionar tablas Distritos,Municipios y Departamentos
+	- Consultar (Select)
+
+Rol: Contador
+Opciones:
+*Gestionar tablas Ventas,DetallesVentas,Compras,DetallesCompras,Proveedores,Facturas,Clientes,Direcciones,Distritos,Municipios y Departamentos
+	- Consultar (Select)
+
+Rol: Bodega
+Opciones:
+*Gestionar tabla Inventarios y Productos
+	- Insertar (Insert)
+	- Consultar (Select)
+	- Actualizar (Update)
+	- Eliminar (Delete)
+
+Rol:RH
+Opciones:
+*Gestionar tabla Empleados,Direcciones,Distritos,Municipios y Departamentos
+	- Insertar (Insert)
+	- Consultar (Select)
+	- Actualizar (Update)
+	- Eliminar (Delete)
+*Gestionar tabla Cargos
+	- Consultar (Select)
+
